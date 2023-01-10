@@ -1,4 +1,4 @@
-# Kỹ thuật lập trình cơ sở (c++)
+# Cấu trúc dữ liệu và giải thuật (c++)
 
 ---
 
